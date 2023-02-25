@@ -16,3 +16,5 @@ git tag
 git tag -d tagName
 git push --delete origin tagName
 ```
+
+#git ignore file is in master branch (should be ignored to and not be add to remote repo but so you can see it)
